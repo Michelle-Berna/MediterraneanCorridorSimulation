@@ -34,19 +34,17 @@ The Mediterranean Corridor project aims to connect Barcelona and Valencia throug
 - Pivot and Equi-Varied Pivot methods.
 - k-means segmentation to disaggregate transport modes.
 - Monte Carlo simulation to calibrate demand and fleet requirements.
-![Modal-Split](Barcelona-Valencia.png).
-![Modal-Split](Barcelona-Tarragona.png).
-![Modal-Split](Tarragona-Valencia.png).
+
 
 ### Railway workshops
 - Poisson processes and M/M/1 model to estimate train arrivals.
 - Track planning for preventive and corrective maintenance.
-![workshop-insights](Talleres.png)
+
 ### Dry ports
 - Optimization of the linear transport cost function.
 - Origin-destination freight matrix.
 - Evaluation of logistics cost savings.
-![Dry_Ports-insights](PuertoSeco.png)
+
 ### Assessment
 - Social and private cost-benefit analysis.
 - NPV and IRR calculation.
